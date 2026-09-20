@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a business information systems professional based in San Diego, California. 
+I'm an accounting and business information systems professional based in San Diego, California. 
 My interests include command line applications, desktop utilities, automation and backend development.
 I like using Python and JavaScript.
 Thanks for checking out my Github! 😊
