@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software engineer based in San Diego, California. 
+I'm an information systems professional based in San Diego, California. 
 My interests include command line applications and backend development.
 I like using Python and JavaScript, and I'm currently learning Go.
 Thanks for checking out my Github! 😊
